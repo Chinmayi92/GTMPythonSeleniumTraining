@@ -1,0 +1,8 @@
+1.Create Account on the github.
+2.Create repository.
+3.Install github client on your laptop.
+4.Clone repository from server to client.
+git clone https://github.com/Chinmayi92/GTMPythonSeleniumTraining.git
+5.git status 
+git config --global user.email "chinmayinayak92@gmail.com"
+  git config --global user.name "Chinmayi92"
